@@ -77,6 +77,6 @@ The dataset consists of CT images of pancreatic cancer, categorized into healthy
 Clone the repository and install the required packages:
 
 ```sh
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
-pip install -r requirements.txt
+git clone https://github.com/arsath-02/pancreatic_cancer_detection.git
+cd pancreatic_cancer_detection
+
